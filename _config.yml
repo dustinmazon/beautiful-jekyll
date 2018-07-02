@@ -23,8 +23,8 @@ description: This is the portfolio site of Dustin B. Mazon. Dustin is a front-en
 
 # List of links in the navigation bar
 navbar-links:
-  Work: "aboutme"
-  Resources: ""
+  About: "aboutme"
+  Work:
     - Learn markdown: "http://www.markdowntutorial.com/"
   Contact: "contact"
 
